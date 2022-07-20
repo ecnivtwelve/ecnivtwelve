@@ -21,5 +21,4 @@ anyways i'm french and i like to work a lot on something, then never look at it 
 - 😄 pronouns: he/him
 - ⚡️ Fun fact: my first project was a calendar app made in visual basic when i was around 7yo
 
-## stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecnivtwelve)](https://github.com/anuraghazra/github-readme-stats)
