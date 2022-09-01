@@ -12,7 +12,7 @@ designer, developer, motion designer, and i can't choose one of the three
 anyways i'm french and i like to work a lot on something, then never look at it again.
 
 ## about me
-- 🔭 I’m currently working on [a framework for Gnome apps](https://github.com/ecnivtwelve/Gelee)
+- 🔭 I’m currently working on [a front-end for pronote](https://github.com/ecnivtwelve/Papillon)
 - 🌱 I’m currently learning **svelte & node**
 - 👯 I’m looking to collaborate on **anything**
 - 🤝 I’m looking for help with [using puppeteer with Heroku](https://github.com/ecnivtwelve/free-mobile-conso-api)
