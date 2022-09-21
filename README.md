@@ -19,7 +19,6 @@ anyways i'm french and i like to work a lot on something, then never look at it 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/ecnivtwelve](https://www.behance.net/ecnivtwelve)
 - 💬 Ask me about **anything**
 - 📫 How to reach me **bonjour@vincelinise.me**
-- ⚡ Fun fact **i prefer burger king than kfc**
 
 ## socials
 <a href="https://twitter.com/ecnivtwelve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ecnivtwelve" height="30" width="40" /></a>
