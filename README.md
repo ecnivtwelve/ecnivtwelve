@@ -1,12 +1,12 @@
 # i'm vincent 💻😴🤪
-![views](https://komarev.com/ghpvc/?username=ecnivtwelve&style=plastic)
+![views](https://komarev.com/ghpvc/?username=ecnivtwelve&style=flat)
 ![](https://img.shields.io/github/followers/ecnivtwelve?style=social)
 ![](https://img.shields.io/github/stars/ecnivtwelve?style=social)
 
 [![twitter](https://img.shields.io/twitter/follow/ecnivtwelve?style=social)](https://twitter.com/ecnivtwelve)
-![discord](https://img.shields.io/static/v1?label=Discord&message=vincentimes%236227&color=7289da&style=plastic)
-[![insta](https://img.shields.io/static/v1?label=Instagram&message=levraicnivtwelve&color=C13584&style=plastic)](https://instagram.com/levraicnivtwelve)
-[![telegram](https://img.shields.io/static/v1?label=Telegram&message=ecnivtwelve&color=0099ff&style=plastic)](https://t.me/ecnivtwelve)
+![discord](https://img.shields.io/static/v1?label=Discord&message=vincentimes%236227&color=7289da&style=flat)
+[![insta](https://img.shields.io/static/v1?label=Instagram&message=levraicnivtwelve&color=C13584&style=flat)](https://instagram.com/levraicnivtwelve)
+[![telegram](https://img.shields.io/static/v1?label=Telegram&message=ecnivtwelve&color=0099ff&style=flat)](https://t.me/ecnivtwelve)
 
 designer, developer, motion designer, and i can't choose one of the three
 anyways i'm french and i like to work a lot on something, then never look at it again.
