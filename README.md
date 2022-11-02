@@ -13,7 +13,7 @@ anyways i'm french and i like to work a lot on something, then never look at it 
 
 ## about me
 - 🔭 I’m currently working on [a front-end for pronote](https://github.com/ecnivtwelve/Papillon)
-- 🌱 I’m currently learning **svelte & node**
+- 🌱 I’m currently learning **vue & node**
 - 👯 I’m looking to collaborate on **anything**
 - 🤝 I’m looking for help with [using puppeteer with Heroku](https://github.com/ecnivtwelve/free-mobile-conso-api)
 - 👨‍💻 All of my projects are available at [https://www.behance.net/ecnivtwelve](https://www.behance.net/ecnivtwelve)
