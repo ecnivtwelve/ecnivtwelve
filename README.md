@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/32978709/227791584-d00dc8d6-3216-4778-989a-ab44b6024a1f.png)
 <h1 align="center">bonjour 👋 je suis vince(nt)</h1>
 
 ###
