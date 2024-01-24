@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">je suis un developpeur (web principalement) et un designer tout droit sorti du pays du beurre salé et des crêpes</p>
+<p align="center">je suis un developpeur (front principalement) et un designer tout droit sorti du pays du beurre salé et des crêpes</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ je crée des bugs depuis 2017<br>📚 j'apprends Vue.js en ce moment<br>🎯 mon objectif : créer moins de bugs et m'améliorer</p>
+<p align="center">✨ je crée des bugs depuis 2017<br>📚 j'apprends TypeScript, React (et React Native) en ce moment<br>🎯 mon objectif : créer moins de bugs et m'améliorer</p>
 
 ###
 
