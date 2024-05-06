@@ -81,13 +81,10 @@
 
 ###
 
-<h4 align="left">stats</h4>
+<h4 align="left">wakatime</h4>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ecnivtwelve&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ecnivtwelve&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<img src="https://wakatime.com/share/@4e714450-0ed9-406b-81e1-a27f36c6bf2f/4ec36191-3a96-4d9f-a2e6-cda8988023fe.svg" height="500" />
 
 ###
