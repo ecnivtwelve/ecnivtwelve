@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">i'm a french developer and designer that wants to make great designs and experiences available to all through the apps and tools i make ans enhance everyday</p>
+<p align="left">i'm a french developer and designer that wants to make great designs and experiences available to all, through the apps and tools i make and enhance everyday</p>
 
 ###
 
