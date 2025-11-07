@@ -1,9 +1,21 @@
-## bonjour 👋 i'm Vince
+# bonjour / demat / hej 👋 i'm Vince
 
 ###
-I'm **Vince LINISE (he/him)** - I'm a front-end developer and (UI/UX/brand/motion) designer freshly graduating from high school.
-> I'm commited to create and maintain tools that enhances our vision of modern technology, with intuitive and thoughtful experiences that I want to make the greatest to use and that are designed for humans just like you and me.
+I'm **Vince LINISE (he/him)** - I'm a developer and a designer currently studying @ [IUT of Lannion / Université de Rennes](https://iut-lannion.univ-rennes.fr/lannion-institute-technology-university-rennes)
+> *Here, I want to build and maintaind software and experiences centered around the users : my vision is to create open software that is built, crafted and polished to feel familiar, delightful, and intuitive.*
 
-- 🦋 Currently working on [Papillon](https://github.com/PapillonApp/Papillon), the greatest school app you'll ever use
-- 💾 Currently learning React and React Native
-- 👀 I'm looking for anyone that has enough spare time to help the community build an open source school app that truly respects us
+## 🌟 current projects
+- 🦋 [Papillon](https://github.com/PapillonApp/Papillon), an open source school management app
+- 🌻 Member of [@StrellaStudio](https://github.com/StrellaStudio), a non-profit building software and design for people
+- ☁️ Intern @ [Cozy](https://github.com/cozy) ([Linagora](https://github.com/Cozy)) as a front-end developer
+
+## 🛠️ toolbox (tech stack)
+- 💻 HTML / CSS / JavaScript / TypeScript
+- ⚛️ React, Vue, Svelte
+- 📱 React Native, Expo
+- 🐍 Python, C#
+- 🎨 Figma, After Effects
+
+## 🗨️ contact me
+- 📍 based at Rennes (35) and Lannion (22)
+- 💬 contact (at) vincelinise (dot) com
